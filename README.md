@@ -33,3 +33,5 @@ The site loads no external fonts, analytics, or third-party scripts.
 The DIC project and internship experience section are based on Skylar_Robinson_Resume(3).pdf. DIC uses a typographic card without a project image. Internship dates and in-progress work reflect the supplied resume and should be reviewed before publishing.
 
 A dedicated senior-project section describes the Raytheon Autonomous Vehicle Competition UAV effort, with an in-progress label, current requirements and research work, planned deliverables, and a download of the supplied September 2026 scope of work. It does not claim completed flight or mission verification.
+
+
